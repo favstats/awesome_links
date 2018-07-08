@@ -13,6 +13,11 @@
 + [Tidy Eval Meets ggplot2 - The Bang Bang Plots](http://www.onceupondata.com/2018/07/06/ggplot-tidyeval/)
 + [{friendlyeval} A friendly interface to tidyeval/rlang that will excuse itself when you're done](https://github.com/MilesMcBain/friendlyeval)
 
+**Hugo Academic**
+
++ [Tips for using the Hugo academic theme](https://lmyint.github.io/post/hugo-academic-tips/)
++ [Awesome Website based on the Hugo Academic theme](https://github.com/fliptanedo/FlipWebsite2017)
++ [Hugo Shortcodes](https://gohugo.io/content-management/shortcodes/)
 
 **Artsy Stuff**
 
