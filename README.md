@@ -19,6 +19,10 @@
 + [Awesome Website based on the Hugo Academic theme](https://github.com/fliptanedo/FlipWebsite2017)
 + [Hugo Shortcodes](https://gohugo.io/content-management/shortcodes/)
 
+**Bayesianism**
+
++ [Building a Multilevel Model in BRMS Tutorial: Popularity Data](https://www.rensvandeschoot.com/brms-started/)
+
 **Artsy Stuff**
 
 + [{rusk} The goal of rusk is to show a nice representation of multiplication table](https://github.com/ThinkR-open/rusk)
