@@ -26,3 +26,7 @@
 **Artsy Stuff**
 
 + [{rusk} The goal of rusk is to show a nice representation of multiplication table](https://github.com/ThinkR-open/rusk)
+
+**Interesting Packages**
+
++ [{recipes}](https://github.com/topepo/user2018/blob/master/slides/Recipes_for_Data_Processing.pdf)
