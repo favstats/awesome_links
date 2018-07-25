@@ -3,6 +3,7 @@
 **Animation**
 
 + [gganimate](https://github.com/thomasp85/gganimate#gganimate-)
++ [Animating the Goals of the World Cup with R](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/)
 
 **Machine Learning**
 
