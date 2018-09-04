@@ -13,10 +13,14 @@
 **Machine Learning**
 
 + [Code for Workshop: Intro to Machine Learning w/ R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
++ [Big Data Analysis in the Social Sciences](http://pablobarbera.com/ECPR-SC105/)
 
 **Web Scraping**
 
 + [rvest and Rselenium @ useR2018](https://gist.github.com/HanjoStudy/e5b1a425b5436550a66a4e0b05352a51)
++ [Automated Collection of Web and Social Data](http://pablobarbera.com/ECPR-SC104/)
+
+
 
 **Non-Standard Evaluation (NSE)**
 
