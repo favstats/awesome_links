@@ -20,8 +20,6 @@
 + [rvest and Rselenium @ useR2018](https://gist.github.com/HanjoStudy/e5b1a425b5436550a66a4e0b05352a51)
 + [Automated Collection of Web and Social Data](http://pablobarbera.com/ECPR-SC104/)
 
-
-
 **Non-Standard Evaluation (NSE)**
 
 + [Tidy Eval Meets ggplot2 - The Bang Bang Plots](http://www.onceupondata.com/2018/07/06/ggplot-tidyeval/)
@@ -45,6 +43,10 @@
 
 + [{recipes}](https://github.com/topepo/user2018/blob/master/slides/Recipes_for_Data_Processing.pdf)
 + [{ViewPipeSteps}](https://github.com/daranzolin/ViewPipeSteps)
+
+**Python**
+
++ [Python for R Users Workshop](https://github.com/MangoTheCat/python-for-r-users-workshop)
 
 **Paper**
 
