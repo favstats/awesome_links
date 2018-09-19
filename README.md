@@ -53,8 +53,11 @@
 
 + [Python for R Users Workshop](https://github.com/MangoTheCat/python-for-r-users-workshop)
 
-**Paper**
+**Readings**
 
 + [Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
++ [Alternative Influence: Broadcasting the Reactionary Right on YouTube](https://datasociety.net/wp-content/uploads/2018/09/DS_Alternative_Influence.pdf)
+
+
 
 
