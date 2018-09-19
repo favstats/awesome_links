@@ -43,6 +43,7 @@
 
 + [{recipes}](https://github.com/topepo/user2018/blob/master/slides/Recipes_for_Data_Processing.pdf)
 + [{ViewPipeSteps}](https://github.com/daranzolin/ViewPipeSteps)
++ [{DataPackageR}](https://ropensci.org/blog/2018/09/18/datapackager/)
 
 **Python**
 
