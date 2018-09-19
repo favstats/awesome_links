@@ -19,6 +19,13 @@
 + [Code for Workshop: Intro to Machine Learning w/ R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 + [Big Data Analysis in the Social Sciences](http://pablobarbera.com/ECPR-SC105/)
 
+**Topics Models**
+
++ [{tidystm}](https://github.com/mikajoh/tidystm)
++ [Learning Structural Topic Modeling](https://github.com/dondealban/learning-stm)
++ [{stminsights}](https://github.com/methodds/stminsights)
++ [Learning Structural Topic Modeling](https://github.com/dondealban/learning-stm)
+
 **Web Scraping**
 
 + [rvest and Rselenium @ useR2018](https://gist.github.com/HanjoStudy/e5b1a425b5436550a66a4e0b05352a51)
@@ -52,6 +59,10 @@
 **Python**
 
 + [Python for R Users Workshop](https://github.com/MangoTheCat/python-for-r-users-workshop)
+
+**Rmarkdown**
+
++ [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
 
 **Readings**
 
