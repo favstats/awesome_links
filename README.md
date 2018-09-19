@@ -4,6 +4,10 @@
 
 + [Terrorism and Social Media 2019](http://terrorismandsocialmedia.com/callforpapers/)
     + To submit your proposal, please send: (1) the title of your presentation; (2) an abstract of up to 250 words; and, (3) a brief (one paragraph) biography to TASMConf@swansea.ac.uk no later than Friday 28th September 2018.
+    
+ **Jobs and PhDs**
+ 
++ [PhD Studentship: Honeypot-Bot: Developing Social Media Bots for Engaging with Malicious Actors](https://www.jobs.ac.uk/job/BML441/phd-studentship-honeypot-bot-developing-social-media-bots-for-engaging-with-malicious-actors-buckleyo_u19scic)
 
 **Animation**
 
