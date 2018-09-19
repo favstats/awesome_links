@@ -24,7 +24,6 @@
 + [{tidystm}](https://github.com/mikajoh/tidystm)
 + [Learning Structural Topic Modeling](https://github.com/dondealban/learning-stm)
 + [{stminsights}](https://github.com/methodds/stminsights)
-+ [Learning Structural Topic Modeling](https://github.com/dondealban/learning-stm)
 
 **Web Scraping**
 
