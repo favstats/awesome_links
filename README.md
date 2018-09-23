@@ -67,6 +67,12 @@
 
 + [R Bootcamp](https://github.com/jkosie/uoregon_r_bootcamp)
 
+**Weighting**
+
++ [{TAM}](https://www.rdocumentation.org/packages/TAM/versions/2.12-18/topics/weighted_Stats)
++ [{srvyr}](https://github.com/gergness/srvyr)
++ [{Weighted.Desc.Stat}](https://rdrr.io/cran/Weighted.Desc.Stat/man/)
+
 **Readings**
 
 + [Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
