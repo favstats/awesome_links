@@ -63,6 +63,10 @@
 
 + [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
 
+**Introduction**
+
++ [R Bootcamp](https://github.com/jkosie/uoregon_r_bootcamp)
+
 **Readings**
 
 + [Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
