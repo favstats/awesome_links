@@ -9,6 +9,10 @@
  
 + [PhD Studentship: Honeypot-Bot: Developing Social Media Bots for Engaging with Malicious Actors](https://www.jobs.ac.uk/job/BML441/phd-studentship-honeypot-bot-developing-social-media-bots-for-engaging-with-malicious-actors-buckleyo_u19scic)
 
+**Introduction to R/Tidyverse**
+
++ [R Bootcamp](https://github.com/jkosie/uoregon_r_bootcamp)
+
 **Animation**
 
 + [gganimate](https://github.com/thomasp85/gganimate#gganimate-)
@@ -19,7 +23,7 @@
 + [Code for Workshop: Intro to Machine Learning w/ R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 + [Big Data Analysis in the Social Sciences](http://pablobarbera.com/ECPR-SC105/)
 
-**Topics Models**
+**Topic Models**
 
 + [{tidystm}](https://github.com/mikajoh/tidystm)
 + [Learning Structural Topic Modeling](https://github.com/dondealban/learning-stm)
@@ -48,6 +52,7 @@
 **Artsy Stuff**
 
 + [{rusk} The goal of rusk is to show a nice representation of multiplication table](https://github.com/ThinkR-open/rusk)
++ [{colorfindr}](https://github.com/zumbov2/colorfindr)
 
 **Interesting Packages**
 
@@ -62,10 +67,6 @@
 **Rmarkdown**
 
 + [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
-
-**Introduction**
-
-+ [R Bootcamp](https://github.com/jkosie/uoregon_r_bootcamp)
 
 **Weighting**
 
