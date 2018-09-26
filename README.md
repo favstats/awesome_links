@@ -68,6 +68,10 @@
 
 + [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
 
+**Tools**
+
++ [{runner} Rolling functions](https://cran.r-project.org/web/packages/runner/vignettes/runner.html)
+
 **Weighting**
 
 + [{TAM}](https://www.rdocumentation.org/packages/TAM/versions/2.12-18/topics/weighted_Stats)
