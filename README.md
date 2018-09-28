@@ -33,6 +33,8 @@
 
 + [rvest and Rselenium @ useR2018](https://gist.github.com/HanjoStudy/e5b1a425b5436550a66a4e0b05352a51)
 + [Automated Collection of Web and Social Data](http://pablobarbera.com/ECPR-SC104/)
++ [{Rcrawler}](https://github.com/salimk/Rcrawler)
+
 
 **Non-Standard Evaluation (NSE)**
 
@@ -48,6 +50,7 @@
 **Bayesianism**
 
 + [Building a Multilevel Model in BRMS Tutorial: Popularity Data](https://www.rensvandeschoot.com/brms-started/)
++ [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/connect/#/apps/1850/access)
 
 **Artsy Stuff**
 
