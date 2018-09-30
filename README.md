@@ -12,6 +12,17 @@
 **Introduction to R/Tidyverse**
 
 + [R Bootcamp](https://github.com/jkosie/uoregon_r_bootcamp)
++ [tidyverse idea and dplyr library](https://mczyzj.github.io/BeginnersGuideToGalaxy/somwehere-between-basic-and-useful.html#tidyverse-idea-and-dplyr-library)
+
+**Bookdown Contest**
+
++ [Global_Terrorism_Database_Thesis](https://github.com/pranavpandya84/Global_Terrorism_Database_THESIS)
++ [https://geocompr.robinlovelace.net/index.html](https://geocompr.robinlovelace.net/index.html)
++ [mindr bookdown](https://community.rstudio.com/t/bookdown-contest-submission-mindr-convert-a-bookdown-project-into-a-mind-map-and-vice-versa/15121)
++ [Programming for Psychologists: Data Creation and Analysis](https://crumplab.github.io/programmingforpsych/)
++ [Creating Posters](https://www.bapt.xyz/blog/posters)
++ [Dissertation Example](https://github.com/eddiekasner/example-dissertation)
++ [PhD thesis/Working Paper template](https://github.com/robjhyndman/monashebstemplates)
 
 **Animation**
 
@@ -71,7 +82,11 @@
 
 + [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
 
-**Tools**
+**Shiny**
+
++ [A gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/index.html)
+
+**Tools/Functions**
 
 + [{runner} Rolling functions](https://cran.r-project.org/web/packages/runner/vignettes/runner.html)
 
