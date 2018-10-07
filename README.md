@@ -8,6 +8,8 @@
  **Jobs and PhDs**
  
 + [PhD Studentship: Honeypot-Bot: Developing Social Media Bots for Engaging with Malicious Actors](https://www.jobs.ac.uk/job/BML441/phd-studentship-honeypot-bot-developing-social-media-bots-for-engaging-with-malicious-actors-buckleyo_u19scic)
++ [Do you want to work with us and write for Our World in Data? Here's how you can apply!](https://ourworldindata.org/researchers-join-us)
+
 
 **Introduction to R/Tidyverse**
 
