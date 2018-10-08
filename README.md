@@ -89,10 +89,15 @@
 
 + [A gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/index.html)
 
+**Python and R**
+
++ [R and Python: How to Integrate the Best of Both into Your Data Science Workflow](https://www.r-bloggers.com/r-and-python-how-to-integrate-the-best-of-both-into-your-data-science-workflow/)
+
 **Tools/Functions**
 
 + [{runner} Rolling functions](https://cran.r-project.org/web/packages/runner/vignettes/runner.html)
 + [How to create colored titles](https://github.com/danawanzer/tidytuesdayweek18/blob/master/Week_18_-_Dallas_Animal_Shelter_RMD.md)
++ [R Markdown Scroll](https://github.com/nathaneastwood/r-markdown-scroll)
 
 **Weighting**
 
