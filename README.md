@@ -15,6 +15,8 @@
 
 + [R Bootcamp](https://github.com/jkosie/uoregon_r_bootcamp)
 + [tidyverse idea and dplyr library](https://mczyzj.github.io/BeginnersGuideToGalaxy/somwehere-between-basic-and-useful.html#tidyverse-idea-and-dplyr-library)
++ [Getting Started in R - Tinyverse](https://github.com/eddelbuettel/gsir-te)
+
 
 **Bookdown Contest**
 
