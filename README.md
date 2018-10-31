@@ -113,5 +113,6 @@
 + [Alternative Influence: Broadcasting the Reactionary Right on YouTube](https://datasociety.net/wp-content/uploads/2018/09/DS_Alternative_Influence.pdf)
 
 
-
+**Qualitative Data**
++ [Diskursanalyse in RQDA](https://rpubs.com/dastan/rqda_hd)
 
