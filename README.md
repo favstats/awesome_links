@@ -17,6 +17,9 @@
 + [tidyverse idea and dplyr library](https://mczyzj.github.io/BeginnersGuideToGalaxy/somwehere-between-basic-and-useful.html#tidyverse-idea-and-dplyr-library)
 + [Getting Started in R - Tinyverse](https://github.com/eddelbuettel/gsir-te)
 
+**Teaching**
+
++ [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
 
 **Bookdown Contest**
 
