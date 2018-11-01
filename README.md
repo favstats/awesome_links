@@ -50,7 +50,7 @@
 + [rvest and Rselenium @ useR2018](https://gist.github.com/HanjoStudy/e5b1a425b5436550a66a4e0b05352a51)
 + [Automated Collection of Web and Social Data](http://pablobarbera.com/ECPR-SC104/)
 + [{Rcrawler}](https://github.com/salimk/Rcrawler)
-
++ [YouTube Channel Analysis - Identifying Influencers-and-Haters](https://towardsdatascience.com/youtube-channel-analysis-identifying-influencers-and-haters-8d7a4c0790c7)
 
 **Non-Standard Evaluation (NSE)**
 
@@ -86,6 +86,7 @@
 **Rmarkdown**
 
 + [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
++ [Radix](https://rstudio.github.io/radix/)
 
 **Shiny**
 
@@ -106,10 +107,6 @@
 + [{TAM}](https://www.rdocumentation.org/packages/TAM/versions/2.12-18/topics/weighted_Stats)
 + [{srvyr}](https://github.com/gergness/srvyr)
 + [{Weighted.Desc.Stat}](https://rdrr.io/cran/Weighted.Desc.Stat/man/)
-
-**Interesting Analysis**
-
-+ [YouTubeC hannel Analysis - Identifying Influencers-and-Haters](https://towardsdatascience.com/youtube-channel-analysis-identifying-influencers-and-haters-8d7a4c0790c7)
 
 **Readings**
 
