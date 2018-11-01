@@ -104,6 +104,7 @@
 + [{runner} Rolling functions](https://cran.r-project.org/web/packages/runner/vignettes/runner.html)
 + [How to create colored titles](https://github.com/danawanzer/tidytuesdayweek18/blob/master/Week_18_-_Dallas_Animal_Shelter_RMD.md)
 + [R Markdown Scroll](https://github.com/nathaneastwood/r-markdown-scroll)
++ [Reproducible Research with rrtools](https://annakrystalli.me/rrtools-repro-research/index.html)
 
 **Weighting**
 
