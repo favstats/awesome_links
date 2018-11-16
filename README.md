@@ -92,6 +92,10 @@
 + [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
 + [Radix](https://rstudio.github.io/radix/)
 
+**Python**
+
++ [Welcome to COGS18: Introduction to Python!](https://cogs18.github.io/intro/)
+
 **Shiny**
 
 + [A gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/index.html)
