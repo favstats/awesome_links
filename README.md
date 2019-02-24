@@ -60,6 +60,9 @@
 
 + [Tidy Eval Meets ggplot2 - The Bang Bang Plots](http://www.onceupondata.com/2018/07/06/ggplot-tidyeval/)
 + [{friendlyeval} A friendly interface to tidyeval/rlang that will excuse itself when you're done](https://github.com/MilesMcBain/friendlyeval)
++ [Programming in the Tidyvderse - Slides](https://speakerdeck.com/lionelhenry/programming-in-the-tidyverse
+)
+
 
 **Hugo Academic**
 
