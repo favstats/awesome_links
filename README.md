@@ -16,6 +16,7 @@
 + [R Bootcamp](https://github.com/jkosie/uoregon_r_bootcamp)
 + [tidyverse idea and dplyr library](https://mczyzj.github.io/BeginnersGuideToGalaxy/somwehere-between-basic-and-useful.html#tidyverse-idea-and-dplyr-library)
 + [Getting Started in R - Tinyverse](https://github.com/eddelbuettel/gsir-te)
++ [Purrr Tips and Tricks](https://www.hvitfeldt.me/blog/purrr-tips-and-tricks/)
 
 **Teaching**
 
@@ -113,6 +114,8 @@
 + [How to create colored titles](https://github.com/danawanzer/tidytuesdayweek18/blob/master/Week_18_-_Dallas_Animal_Shelter_RMD.md)
 + [R Markdown Scroll](https://github.com/nathaneastwood/r-markdown-scroll)
 + [Reproducible Research with rrtools](https://annakrystalli.me/rrtools-repro-research/index.html)
++ [Progress Bars for purrr with {purrrogress}](https://cran.r-project.org/web/packages/purrrogress/readme/README.html)
+
 
 **Weighting**
 
