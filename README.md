@@ -17,7 +17,7 @@
 + [tidyverse idea and dplyr library](https://mczyzj.github.io/BeginnersGuideToGalaxy/somwehere-between-basic-and-useful.html#tidyverse-idea-and-dplyr-library)
 + [Getting Started in R - Tinyverse](https://github.com/eddelbuettel/gsir-te)
 + [Purrr Tips and Tricks](https://www.hvitfeldt.me/blog/purrr-tips-and-tricks/)
-+ [https://github.com/othomantegazza/code-tidytuesday/blob/master/2-26-UFO.R](Awesome Datavisualization with Hexagons on a US Map)
++ [Awesome Datavisualization with Hexagons on a US Map](https://github.com/othomantegazza/code-tidytuesday/blob/master/2-26-UFO.R)
 
 **Teaching**
 
