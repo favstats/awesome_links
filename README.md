@@ -115,6 +115,7 @@
 + [R Markdown Scroll](https://github.com/nathaneastwood/r-markdown-scroll)
 + [Reproducible Research with rrtools](https://annakrystalli.me/rrtools-repro-research/index.html)
 + [Progress Bars for purrr with {purrrogress}](https://cran.r-project.org/web/packages/purrrogress/readme/README.html)
++ [{ggfittext}](https://github.com/wilkox/ggfittext)
 
 
 **Weighting**
