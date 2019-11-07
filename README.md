@@ -86,6 +86,7 @@
 
 + [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
 + [Radix](https://rstudio.github.io/radix/)
++ [Automated Rmarkdown Reporting](https://medium.com/@urban_institute/iterated-fact-sheets-with-r-markdown-d685eb4eafce)
 
 **Python**
 
