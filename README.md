@@ -12,6 +12,7 @@
 **Teaching**
 
 + [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
++ [How to create Radar Charts with Whatsapp Data](https://ggplot2tutor.com/radar-chart/radar-chart-whatsapp/)
 
 **Bookdown Contest**
 
