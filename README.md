@@ -34,7 +34,6 @@
 + [Code for Workshop: Intro to Machine Learning w/ R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 + [Big Data Analysis in the Social Sciences](http://pablobarbera.com/ECPR-SC105/)
 + [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/index.html)
-+ [Meme Pipeline](https://github.com/memespaper/memes_pipeline)
 
 **Topic Models**
 
@@ -81,7 +80,10 @@
 
 **Python**
 
++ [Welcome to COGS18: Introduction to Python!](https://cogs18.github.io/intro/)
 + [Python for R Users Workshop](https://github.com/MangoTheCat/python-for-r-users-workshop)
++ [Meme Pipeline](https://github.com/memespaper/memes_pipeline)
++ [R and Python: How to Integrate the Best of Both into Your Data Science Workflow](https://www.r-bloggers.com/r-and-python-how-to-integrate-the-best-of-both-into-your-data-science-workflow/)
 
 **Rmarkdown**
 
@@ -89,17 +91,9 @@
 + [Radix](https://rstudio.github.io/radix/)
 + [Automated Rmarkdown Reporting](https://medium.com/@urban_institute/iterated-fact-sheets-with-r-markdown-d685eb4eafce)
 
-**Python**
-
-+ [Welcome to COGS18: Introduction to Python!](https://cogs18.github.io/intro/)
-
 **Shiny**
 
 + [A gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/index.html)
-
-**Python and R**
-
-+ [R and Python: How to Integrate the Best of Both into Your Data Science Workflow](https://www.r-bloggers.com/r-and-python-how-to-integrate-the-best-of-both-into-your-data-science-workflow/)
 
 **Tools/Functions**
 
