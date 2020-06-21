@@ -33,7 +33,7 @@
 
 + [Code for Workshop: Intro to Machine Learning w/ R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 + [Big Data Analysis in the Social Sciences](http://pablobarbera.com/ECPR-SC105/)
-+ [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/index.html)
++ [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 **Topic Models**
 
